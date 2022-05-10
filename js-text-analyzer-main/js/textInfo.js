@@ -16,6 +16,7 @@ const findLength = (item) => (item == null ? 0 : item.length);
 const setText = () => {
   text = textareaEl.value;
   //  number of new Sentences   text.match(/\056/g)
+  // comment
   //  number of uppercaes       text.match(/[A-Z]/g)
   //  number of lowercase       text.match(/[a-z]/g)
   //  number of spaces          text.match(/\s/g)
